@@ -13,6 +13,16 @@
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-05-09%20195051.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-05-09%20195102.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-05-09%20195111.png)
+
+---
+
 ## 📖 Project Overview
 
 A full-stack weather forecasting and alerting system built entirely in Python. It fetches real-time 7-day forecasts from the **Open-Meteo API** (completely free, no API key required), stores data in a local SQLite database, evaluates configurable alert rules, dispatches notifications via Telegram and email, and exposes the data through both a **FastAPI REST API** and a **Streamlit interactive dashboard**.
